@@ -144,7 +144,7 @@ canvas{
     font-size: 2.5rem;
     justify-content: center;
     align-items: center;
-    padding: 50px;
+    padding: 40px;
     visibility: visible;
     -webkit-animation: vibrate-1 0.3s linear infinite both;
     animation: vibrate-1 0.3s linear infinite both;
